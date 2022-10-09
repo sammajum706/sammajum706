@@ -1,5 +1,5 @@
 ### Hi there this is Samriddha Majumdar👋
-I am currently a junior student in the department of Metallurgical & Material Engineering, Jadavpur University. I am interested in the field of AI and Machine Learning. I have worked especially in the field of Computer Vision and Image Processing. I am also interested in the field of Computational Materials Science and looking forward to work on it in future.
+I am currently a junior undergraduate student in the department of Metallurgical & Material Engineering, Jadavpur University. I am interested in the field of AI and Machine Learning. I have worked especially in the field of Computer Vision and Image Processing. I am also interested in the field of Computational Materials Science and looking forward to work on it in future.
 
 Check out my linkedin and orcid profile here:
 
